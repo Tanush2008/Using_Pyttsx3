@@ -1,4 +1,4 @@
-# Using-Pyttsx3-
+# Using_Pyttsx3 
 This repository contains programs using the Pyttsx3 module in Python.
 
 File1: Saying_Sentences.py
@@ -15,4 +15,4 @@ File4: Pyttsx3_Read_A_Document.py
 
 
 All files Created and Written by @Tanush2008. 
-LICENSE issued by MIT. Read before installing any file from this repository (Using-Pyttsx3-).
+LICENSE issued by MIT. Read before installing any file from this repository (# Using_Pyttsx3).
